@@ -5,7 +5,7 @@
 
 
 ## Acknowledge & Citation
-
+```
 @inproceedings{zhang2021datasetgan,
   title={Datasetgan: Efficient labeled data factory with minimal human effort},
   author={Zhang, Yuxuan and Ling, Huan and Gao, Jun and Yin, Kangxue and Lafleche, Jean-Francois and Barriuso, Adela and Torralba, Antonio and Fidler, Sanja},
@@ -13,7 +13,7 @@
   pages={10145--10155},
   year={2021}
 }
-
+```
 @misc{baranchuk2021labelefficient,
       title={Label-Efficient Semantic Segmentation with Diffusion Models}, 
       author={Dmitry Baranchuk and Ivan Rubachev and Andrey Voynov and Valentin Khrulkov and Artem Babenko},
