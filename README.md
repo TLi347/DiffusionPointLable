@@ -14,6 +14,7 @@
   year={2021}
 }
 ```
+```
 @misc{baranchuk2021labelefficient,
       title={Label-Efficient Semantic Segmentation with Diffusion Models}, 
       author={Dmitry Baranchuk and Ivan Rubachev and Andrey Voynov and Valentin Khrulkov and Artem Babenko},
@@ -22,7 +23,8 @@
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
-
+```
+```
 @inproceedings{luo2021diffusion,
   author = {Luo, Shitong and Hu, Wei},
   title = {Diffusion Probabilistic Models for 3D Point Cloud Generation},
@@ -30,13 +32,14 @@
   month = {June},
   year = {2021}
 }
-
+```
+```
 @article{tao2020,
       Author = {An Tao},
       Title = {Unsupervised Point Cloud Reconstruction for Classific Feature Learning},
       Journal = {https://github.com/AnTao97/UnsupervisedPointCloudReconstruction},
       Year = {2020}
 }
-
+```
 
 
