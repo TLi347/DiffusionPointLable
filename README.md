@@ -5,25 +5,7 @@
 dpm generation ckpt and some generated dataset can be found at: [[GoogleDriver](https://drive.google.com/drive/folders/19VIe_xLNGe_urNanuocSGJnQMcJNkvLG?usp=sharing)]
 
 ## Acknowledge & Citation
-```
-@inproceedings{zhang2021datasetgan,
-  title={Datasetgan: Efficient labeled data factory with minimal human effort},
-  author={Zhang, Yuxuan and Ling, Huan and Gao, Jun and Yin, Kangxue and Lafleche, Jean-Francois and Barriuso, Adela and Torralba, Antonio and Fidler, Sanja},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={10145--10155},
-  year={2021}
-}
-```
-```
-@misc{baranchuk2021labelefficient,
-      title={Label-Efficient Semantic Segmentation with Diffusion Models}, 
-      author={Dmitry Baranchuk and Ivan Rubachev and Andrey Voynov and Valentin Khrulkov and Artem Babenko},
-      year={2021},
-      eprint={2112.03126},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
+
 ```
 @inproceedings{luo2021diffusion,
   author = {Luo, Shitong and Hu, Wei},
