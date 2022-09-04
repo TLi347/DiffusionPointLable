@@ -4,6 +4,11 @@
 
 dpm generation ckpt and some generated dataset can be found at: [[GoogleDriver](https://drive.google.com/drive/folders/19VIe_xLNGe_urNanuocSGJnQMcJNkvLG?usp=sharing)]
 
+![overall2](https://user-images.githubusercontent.com/53488014/188305161-419a13fd-f70f-4919-a6f9-4f8bb21d7067.png)
+
+
+![exp](https://user-images.githubusercontent.com/53488014/188305175-2911d9aa-d03c-4a8c-b5eb-edfdccd83337.png)
+
 ## Acknowledge & Citation
 
 ```
